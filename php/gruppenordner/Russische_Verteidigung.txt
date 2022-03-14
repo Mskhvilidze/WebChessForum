@@ -1,0 +1,9 @@
+Die Russische Verteidigung ist eine Eröffnungsvariante des Schachspiels. 
+Sie funktioniert folgendermaßen:
+
+1. Zug weiß: Bauer von e2 auf e4
+1. Zug schwarz: Bauer von e7 auf e5
+2. Zug weiß: Springer von g1 auf f3
+2. Zug schwarz: Springer von g8 auf f6
+
+Viel Spaß beim Ausprobieren!
